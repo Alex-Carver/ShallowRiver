@@ -403,6 +403,43 @@ fieldset {
   margin-top: -1px;
 }
 
+/*--Section Three--*/
+#sectionThree{
+  padding-top: 50px;
+  padding-bottom: 100px;
+  height: auto;
+}
+
+ #sectionThree > div > div > div > h2{
+    color:#283891;
+    font-size: 90px;
+    margin:0;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  #sectionThree > div > div > div > p{
+    font-size: 25px;
+    color:#6B6B72;
+    line-height: 32px;
+    font-family: 'Muli', sans-serif;
+    font-style: normal;
+  }
+
+/*--Services
+.circle-text {
+display: table-cell;
+height: 200px;
+width: 200px;
+text-align: center;
+vertical-align: middle;
+border-radius: 50%;
+background: #283891;
+color: #fff;
+font: 25px 'Robot', sans-serif;
+font-weight: 500;
+}*/
+
   footer{
     text-align: center;
     width:100%;
